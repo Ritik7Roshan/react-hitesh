@@ -1,0 +1,13 @@
+Why learn React?
+-> hype, job, trend build UI: UI toh phele v ban rhe the jquery h JS h 
+-> makes it easy to manage and build complex frontend
+
+Donot become a react developer become JS developer
+
+When shd you learn React?
+ - After mastering JS 
+ - most projects dont need react initially
+
+Jab itna confidence aa jayeh ki react ki mujhe jarurat nhi h mai JS se hi sab kr luga han but react se jaldi bna skta hu tab react sikhna chaiyeh
+ 
+
